@@ -1,9 +1,9 @@
 {
   "botium": {
     "Capabilities": {
-      "PROJECTNAME": "ntabotiduat",
+      "PROJECTNAME": "",
       "CONTAINERMODE": "directline3",
-      "DIRECTLINE3_SECRET": "ub5tgM0CHeI.cwA.3MY.G81Jln7cEi1fXYhBnNsXyty2qPKt2CWa90Zi2kF6daM",
+      "DIRECTLINE3_SECRET": "",
       "DIRECTLINE3_WEBSOCKET": true,
       "DIRECTLINE3_POLLINGINTERVAL": 1000
     }
